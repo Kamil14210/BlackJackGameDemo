@@ -1,0 +1,1 @@
+Jak chcesz mieć tlo to dodać plik w tym folderze o nazwie table.png
